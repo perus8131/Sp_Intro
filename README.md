@@ -1,49 +1,49 @@
 # 💫 About Me:
-Hi, I'm Sumanth — Senior Full Stack Developer / Team Lead with 7+ years of experience. I’ve been working mainly as a full-stack developer building **React/Vue/Angular** frontends and **Node.js/TypeScript** backend services. I’ve worked across **healthcare, travel, telecom, and automotive**, so I’m comfortable picking up new domains quickly and delivering end-to-end features with clean, maintainable code.
+Hi, I'm Sumanth — **Senior Full Stack Developer / Team Lead** with **7+ years** of experience. I mainly build full-stack applications using **React/Vue/Angular** on the frontend and **Node.js/TypeScript** on the backend, and I also have experience supporting **Java + Spring Boot** services in enterprise setups (Tomcat/Maven when needed). I’ve worked across **healthcare, travel, telecom, and automotive**, so I’m comfortable picking up new domains quickly and delivering end-to-end features with clean, maintainable code. Recently, I’ve also been involved in **AI/ML integration work**—using **Python** where needed, connecting applications to AI services, and building small **AI agent-style workflows** to automate steps and improve user experience.
 
-* **Operations & Production Support (Priority):**
+**Operations & Production Support (Priority):**
 
-  * Handle production triage using **Splunk** and dashboards/alerts to quickly identify root cause and impact
-  * Coordinate fixes across teams (dev, QA, DevOps) and **drive issues to closure** with clear ownership and follow-ups
-  * Comfortable working with deployment/runtime environments like **OpenShift** (basic rollout checks, pod-level troubleshooting, logs)
+* Handle production triage using **Splunk** and dashboards/alerts to quickly identify root cause and impact
+* Coordinate fixes across teams (dev, QA, DevOps) and drive issues to closure with clear ownership and follow-ups
+* Comfortable working with deployment/runtime environments like **OpenShift** (basic rollout checks, pod-level troubleshooting, logs)
 
-* **Leadership / Stakeholder Management (Priority):**
+**Leadership / Stakeholder Management (Priority):**
 
-  * Drive **technical planning**, **code reviews**, and team execution to keep delivery predictable
-  * Partner with **Product, QA, DevOps, Architects, and higher management** on architecture discussions, timelines, risks, and prioritization
-  * Support **resource planning and budget** conversations to align scope and delivery with client expectations
- 
-* **Frontend (UI):**
+* Drive **technical planning**, **code reviews**, and team execution to keep delivery predictable
+* Partner with **Product, QA, DevOps, Architects, and higher management** on architecture discussions, timelines, risks, and prioritization
+* Support **resource planning and budget** conversations to align scope and delivery with client expectations
 
-  * Build reusable UI components and complete workflows using **React**, **Vue 3** (Composition API, Pinia/Vuex, Vue Router, Nuxt 3), and **Angular**
-  * Focus on clean structure, state management, routing, forms/validations, and smooth API integration
-  
+**Frontend (UI):**
 
-* **Backend (APIs & Microservices):**
+* Build reusable UI components and workflows using **React**, **Vue 3** (Composition API, Pinia/Vuex, Vue Router, Nuxt 3), and **Angular**
+* Focus on clean structure, state management, routing, forms/validations, and smooth API integration
 
-  * Build **microservices** and APIs using **Node.js/TypeScript** (Express/Fastify style)
-  * Develop **REST + GraphQL** endpoints with middleware, validations, and error handling
-  * Support enterprise integrations including **SOAP** when required
-  * Also have experience supporting **Java** services in mixed backend environments
+**Backend (APIs & Microservices):**
 
-* **Data / Databases:**
+* Build microservices and APIs using **Node.js/TypeScript** (Express/Fastify style)
+* Develop **REST + GraphQL** endpoints (including **Apollo Server**) with middleware, validations, and error handling
+* Support enterprise integrations including **SOAP** when required
+* Also have experience supporting **Java / Spring Boot** services in mixed backend environments
 
-  * Worked with **PostgreSQL, MySQL, MongoDB, MS SQL**
-  * Write complex queries and **stored procedures** where needed
-  * Experience validating **on-prem vs cloud data/response comparisons** during migrations to ensure behavior and payloads match
+**Data / Databases:**
 
-* **Testing & Quality:**
+* Worked with **PostgreSQL, MySQL, MongoDB, MS SQL**
+* Write complex queries and stored procedures where needed
+* Experience validating **on-prem vs cloud data/response comparisons** during migrations to ensure behavior and payloads match
 
-  * Unit + API testing using **Jest, Mocha, Chai, Supertest**
-  * Use **mocks/stubs** to isolate dependencies and improve test reliability
-  * Support **end-to-end testing** to validate complete UI → API → DB workflows
+**Testing & Quality:**
 
-* **Tools / Ways of Working:**
+* Unit + API testing using **Jest, Mocha, Chai, Supertest**
+* Use mocks/stubs to isolate dependencies and improve test reliability
+* Support end-to-end testing to validate complete UI → API → DB workflows
 
-  * **Git (GitHub/Bitbucket), Jira, Rally, Confluence, Slack**
-  * CI/CD: **Jenkins, CircleCI, GitHub Actions**
-  * API tools: **Postman, Bruno**, documentation via **Swagger/OpenAPI**
-  * Work comfortably in **Agile/Scrum** teams with strong communication and consistent delivery
+**Tools / Ways of Working:**
+
+* **Git (GitHub/Bitbucket), Jira, Rally, Confluence, Slack**
+* CI/CD: **Jenkins, CircleCI, GitHub Actions**
+* API tools: **Postman, Bruno**, documentation via **Swagger/OpenAPI**
+* Work comfortably in **Agile/Scrum** teams with strong communication and consistent delivery
+
 
 
 ## 🌐 Socials:

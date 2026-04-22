@@ -1,5 +1,49 @@
 # 💫 About Me:
-Hi, I’m Sumanth. I’ve been working in software development for around 7+ years, mainly as a full-stack developer building React/Vue/Angular frontends and Node.js/TypeScript backend services. I’ve worked across healthcare, travel, telecom, and automotive, so I’m comfortable picking up new domains quickly and delivering end-to-end features with clean, maintainable code.<br>On the frontend, I build reusable UI components and workflows using React, Vue 3 (Composition API, Pinia/Vuex, Vue Router, Nuxt 3), and Angular, focusing on good structure, state management, and smooth API integration. On the backend, I build microservices and APIs using Node.js (Express/Fastify) and also have experience with Java services when needed. I work with REST and GraphQL (Apollo/AppSync), and I’ve also supported SOAP integrations in enterprise environments. For databases, I’m comfortable with PostgreSQL, MySQL, MongoDB, and MS SQL, including writing queries, stored procedures, and handling data modeling depending on the use case.<br>In my current role at CVS Health, I’m working as a full-stack lead where I build Node.js/TypeScript microservices, support UI work (Angular to React/Vue), review PRs, mentor teammates, and help break down requirements into clear technical tasks. Tool-wise, I regularly use Git (GitHub/Bitbucket), Jira/Rally, VS Code/IntelliJ, Postman, Swagger/OpenAPI, Bruno, Jest/Supertest, and for monitoring/debugging Grafana and log tools depending on the project. I’ve also worked with cloud platforms like AWS (Lambda, API Gateway, S3, CloudWatch, DynamoDB/Aurora) and have some exposure to GCP in a project setting. Recently, I’ve been involved in AI integration work—using Python where it fits, connecting applications to AI services, and building small AI agent-style workflows (like orchestration, tool calling, and automation) to improve productivity and user experience. I’m looking for a role where I can stay hands-on as a core developer, mostly on React + Node, building real features at scale and helping the team ship solid, reliable code.
+Hi, I'm Sumanth — Senior Full Stack Developer / Team Lead with 7+ years of experience. I’ve been working mainly as a full-stack developer building **React/Vue/Angular** frontends and **Node.js/TypeScript** backend services. I’ve worked across **healthcare, travel, telecom, and automotive**, so I’m comfortable picking up new domains quickly and delivering end-to-end features with clean, maintainable code.
+
+* **Operations & Production Support (Priority):**
+
+  * Handle production triage using **Splunk** and dashboards/alerts to quickly identify root cause and impact
+  * Coordinate fixes across teams (dev, QA, DevOps) and **drive issues to closure** with clear ownership and follow-ups
+  * Comfortable working with deployment/runtime environments like **OpenShift** (basic rollout checks, pod-level troubleshooting, logs)
+
+* **Leadership / Stakeholder Management (Priority):**
+
+  * Drive **technical planning**, **code reviews**, and team execution to keep delivery predictable
+  * Partner with **Product, QA, DevOps, Architects, and higher management** on architecture discussions, timelines, risks, and prioritization
+  * Support **resource planning and budget** conversations to align scope and delivery with client expectations
+ 
+* **Frontend (UI):**
+
+  * Build reusable UI components and complete workflows using **React**, **Vue 3** (Composition API, Pinia/Vuex, Vue Router, Nuxt 3), and **Angular**
+  * Focus on clean structure, state management, routing, forms/validations, and smooth API integration
+  
+
+* **Backend (APIs & Microservices):**
+
+  * Build **microservices** and APIs using **Node.js/TypeScript** (Express/Fastify style)
+  * Develop **REST + GraphQL** endpoints with middleware, validations, and error handling
+  * Support enterprise integrations including **SOAP** when required
+  * Also have experience supporting **Java** services in mixed backend environments
+
+* **Data / Databases:**
+
+  * Worked with **PostgreSQL, MySQL, MongoDB, MS SQL**
+  * Write complex queries and **stored procedures** where needed
+  * Experience validating **on-prem vs cloud data/response comparisons** during migrations to ensure behavior and payloads match
+
+* **Testing & Quality:**
+
+  * Unit + API testing using **Jest, Mocha, Chai, Supertest**
+  * Use **mocks/stubs** to isolate dependencies and improve test reliability
+  * Support **end-to-end testing** to validate complete UI → API → DB workflows
+
+* **Tools / Ways of Working:**
+
+  * **Git (GitHub/Bitbucket), Jira, Rally, Confluence, Slack**
+  * CI/CD: **Jenkins, CircleCI, GitHub Actions**
+  * API tools: **Postman, Bruno**, documentation via **Swagger/OpenAPI**
+  * Work comfortably in **Agile/Scrum** teams with strong communication and consistent delivery
 
 
 ## 🌐 Socials:
